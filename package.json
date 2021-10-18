@@ -1,0 +1,11 @@
+{
+  "name": "eoq",
+  "version": "1.0.0",
+  "description": "A simple program to calculate EOQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Njugi Mwaura",
+  "license": "ISC"
+}
