@@ -1,0 +1,28 @@
+body{
+    background-color: #e6fff0;
+}
+
+.cardsytles {
+    
+    color: goldenrod;
+    margin: 30px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+hr {
+    border:none;
+    border-top:7px double #f00;
+    
+    background-color:#fff;
+    height:1px;
+    
+     }
+
+.formrow {
+    margin-top: 15px;
+}
