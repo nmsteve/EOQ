@@ -43,3 +43,7 @@ function calculate(Event){
 //action listener
 form.preventDefault
 form.addEventListener('submit',calculate )
+
+function ResetFunction() {
+    document.getElementById("form").reset();
+  }
