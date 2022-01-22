@@ -46,4 +46,5 @@ form.addEventListener('submit',calculate )
 
 function ResetFunction() {
     document.getElementById("form").reset();
+    results.innerText = ''
   }
